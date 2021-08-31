@@ -1,0 +1,507 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "Template_id": "1000205597_a53a37",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ E ProcessInfoCollector : $PROCESS_INFO_COLLECTOR failed to find this proc"
+    },
+    {
+      "Template_id": "1000407395_1f1599",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D wpa_supplicant : $WPA_SUPPLICANT encrypted key data - hexdump(len = $LEN): $ALPHANUMERICAL ad $NUM+ $ALPHANUMERICAL $ALPHANUMERICAL $ALPHANUMERICAL $ALPHANUMERICAL $ALPHANUMERICAL $ALPHANUMERICAL $ALPHANUMERICAL $NUM+ $ALPHANUMERICAL $ALPHANUMERICAL $NUM+ ae $NUM+ $ALPHANUMERICAL $ALPHANUMERICAL $ALPHANUMERICAL $ALPHANUMERICAL $ALPHANUMERICAL $ALPHANUMERICAL $ALPHANUMERICAL $ALPHANUMERICAL $NUM+ $NUM+ $ALPHANUMERICAL $NUM+ $ALPHANUMERICAL $NUM+ $NUM+ $NUM+ ..."
+    },
+    {
+      "Template_id": "1000521782_34cc2d",
+      "Version": "2",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I SDK : $<NUM+$TIMESTAMP> [NOTICE] SDK : $SDK $NUM+$TIMESTAMP:$NUM+ Level[NOTICE] magic[$NUM+ $NUM+]:VSOCK changes state from $$ to $$"
+    },
+    {
+      "Template_id": "1000549436_01e128",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I DataMigrateUtils : $DATA_MIGRATE_UTILS isNVersion"
+    },
+    {
+      "Template_id": "1000805568_2da893",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I ActivityManager_broadcast : $ACTIVITY_MANAGER_BROADCAST foreground broadcast : (BroadcastRecord{$NUM+ $ALPHANUMERIC_CHAIN_TWO android.net.wifi.STATE_CHANGE}) should be proxyed , target : (ResolveInfo{$ALPHANUMERICAL com.huawei.appmarket/.service.alarm.$ALPHANUMERICAL p = $P m = $M_KEY_VAL euid = $EUID})"
+    },
+    {
+      "Template_id": "1000950364_5e45e0",
+      "Version": "2",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I HwPFWLogger : $HW_PFWLOGGER start receiver of package $$ for action $$"
+    },
+    {
+      "Template_id": "1001037316_bb2e03",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ V AuthenticationService : $AUTHENTICATION_SERVICE AFD/DFD type : $TYPE result : $RESULT"
+    },
+    {
+      "Template_id": "1001177977_322ab6",
+      "Version": "1",
+      "Template": "$<NUM+>%$ALPHANUMERIC_CHAIN_THREE: IP = $IP , Send Altiga/Cisco $ALPHANUMERICAL/Cisco ASA GW VID"
+    },
+    {
+      "Template_id": "1001292964_8b4c2c",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I eSpaceApp : $E_SPACE_APP{$NUM+} MainActivity.toChatActivity(MainActivity.java : $NUM+) uid | groupId[Activity]:null | null"
+    },
+    {
+      "Template_id": "1002004434_609764",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I QImsService : $QIMS_SERVICE : [UNSL]< UNSOL_RESPONSE_IMS_NETWORK_STATE_CHANGED[$ALPHANUMERICAL]"
+    },
+    {
+      "Template_id": "1002144508_dbf667",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D wpa_supplicant : $WPA_SUPPLICANT monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_$ALPHANUMERIC_CHAIN_TWO\\$ALPHANUMERICAL"
+    },
+    {
+      "Template_id": "1002542430_2e7a88",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I SDK : $<NUM+$TIMESTAMP> [NOTICE] SDK : $SDK $NUM+$TIMESTAMP:$NUM+ Level[NOTICE] magic[$NUM+ $NUM+]:Server certificate:"
+    },
+    {
+      "Template_id": "1002848673_81fc19",
+      "Version": "1",
+      "Template": "$<NUM+>%$ALPHANUMERIC_CHAIN_THREE: IP $<IPVFOUR> Error authenticating SVC connect request."
+    },
+    {
+      "Template_id": "1003563663_7be152",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I SDK : $<NUM+$TIMESTAMP> [NOTICE] SDK : $SDK $ALPHANUMERIC_CHAIN_THREE $NUM+:$NUM+:$NUM+:$NUM+ Level[NOTICE] magic[$NUM+ $NUM+]:API_CreateTunnel : Succeed in creating tunnel , set socket use $ALPHANUMERICAL"
+    },
+    {
+      "Template_id": "1003805529_7e999c",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I HuaweiWifiWatchdogStateMachine : mCurrentBssid current bssid is : $IS**:**:$NUM+:$ALPHANUMERICAL"
+    },
+    {
+      "Template_id": "100380602_166f64",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I Telephony : $TELEPHONY close session while phone state IDLE"
+    },
+    {
+      "Template_id": "1004302578_b1d925",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D wpa_supplicant : $WPA_SUPPLICANT WPA : $WPA message $NUM+ of Group Key Handshake from $MAC (ver = $VER)"
+    },
+    {
+      "Template_id": "1004440805_3a6fa3",
+      "Version": "2",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I HwOUC : [$ALPHANUMERIC_CHAIN_TWO]getRealFirmwareVersion() , send ro.build.product.real.id = $$ : $NUM+)"
+    },
+    {
+      "Template_id": "1004475946_e4d7ae",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D Telecom : ConnectionServiceWrapper : $CONNECTION_SERVICE_WRAPPER -> Telecom : $TELECOM com.android.internal.telecom.RemoteServiceCallback$Stub$Proxy@$ALPHANUMERICAL: CSW.qRCS@EyI"
+    },
+    {
+      "Template_id": "1005352569_ced85f",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D wpa_supplicant : $WPA_SUPPLICANT WPA IE for msg $NUM+/$NUM+ - hexdump(len = $LEN): $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $ALPHANUMERICAL ac $NUM+ $NUM+ $NUM+ $NUM+ $ALPHANUMERICAL ac $NUM+ $NUM+ $NUM+ $NUM+ $ALPHANUMERICAL ac $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $ALPHANUMERICAL $ALPHANUMERICAL $ALPHANUMERICAL $ALPHANUMERICAL $NUM+ $NUM+ $ALPHANUMERICAL $NUM+ ..."
+    },
+    {
+      "Template_id": "1005578812_a14e3f",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D Job : org.iqiyi.video.livechat.d.aux.f()$<NUM+> : isCancelled() org.iqiyi.video.livechat.b.a.a.$ALPHANUMERICAL@$NUM+ return false"
+    },
+    {
+      "Template_id": "1005931100_4ca236",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ E WifiMonitor : $WIFI_MONITOR cnt = $CNT dispatchEvent : $DISPATCH_EVENT depth = $DEPTH subject = '/CN = $CN Enterprise CA $NUM+' hash = $HASH"
+    },
+    {
+      "Template_id": "1006235406_86effa",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D HwArpVerifier : $HW_ARP_VERIFIER $IPVFOUR $MAC $NUM+ $ALPHANUMERICAL"
+    },
+    {
+      "Template_id": "1006289176_a5e006",
+      "Version": "1",
+      "Template": "$<NUM+>%$ALPHANUMERIC_CHAIN_THREE: IPAA : $IPAA=$HEX , Local pool request succeeded for $ALPHANUMERIC_CHAIN_TWO 'DefaultWEBVPNGroup'"
+    },
+    {
+      "Template_id": "100666220_fb96eb",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D wpa_supplicant : $WPA_SUPPLICANT EAPOL - hexdump(len = $LEN): $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ ce $NUM+ $NUM+ $ALPHANUMERICAL $ALPHANUMERICAL $NUM+ $NUM+ $NUM+ ea df ae $ALPHANUMERICAL $ALPHANUMERICAL $NUM+ $ALPHANUMERICAL $ALPHANUMERICAL $NUM+ bb $ALPHANUMERICAL $ALPHANUMERICAL $NUM+ $NUM+ $ALPHANUMERICAL ec $ALPHANUMERICAL bb bd ..."
+    },
+    {
+      "Template_id": "1006683784_ed1ea6",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I ash : add listener com.huawei.$ALPHANUMERICAL net packet OK ! , uid : $NUM+"
+    },
+    {
+      "Template_id": "1007365743_faf37e",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I SDK : $<NUM+$TIMESTAMP> [NOTICE] SDK : $SDK $ALPHANUMERIC_CHAIN_THREE $NUM+:$NUM+:$NUM+:$NUM+ Level[NOTICE] magic[$NUM+ $NUM+]:Add Tlv num[$NUM+]!"
+    },
+    {
+      "Template_id": "100758669_57ebae",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D wpa_supplicant : $WPA_SUPPLICANT EAPOL - hexdump(len = $LEN): $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $ALPHANUMERICAL $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ be $ALPHANUMERICAL $ALPHANUMERICAL $NUM+ af $ALPHANUMERICAL $ALPHANUMERICAL $NUM+ $ALPHANUMERICAL $NUM+ $NUM+ $ALPHANUMERICAL bb $ALPHANUMERICAL $NUM+ ..."
+    },
+    {
+      "Template_id": "10087877_4ecad8",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I PackAutoLog : $PACK_AUTO_LOG onPrePack"
+    },
+    {
+      "Template_id": "1009224867_9cbddc",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D fpc_fingerprint_hal : $FPC_FINGERPRINT_HAL , took $NUM+ ms"
+    },
+    {
+      "Template_id": "1009448190_65fc58",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I $ALPHANUMERICAL: [$ALPHANUMERIC_CHAIN_TWO]rspPushMessage the response msg is : $ALPHANUMERICAL , msgId : $SEQ , flag : $NUM+(android/null : $NUM+)"
+    },
+    {
+      "Template_id": "1009599162_7beae0",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ V APM_AudioPolicyManager : $APM_AUDIO_POLICY_MANAGER() device $NUM+ , stream $NUM+ , samplingRate $NUM+ , format $NUM+ , channelMask $NUM+ , flags $NUM+"
+    },
+    {
+      "Template_id": "1009950105_c4191e",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D BetaClub_LogUpload : 自杀进程 : myPid : $NUM+"
+    },
+    {
+      "Template_id": "1010030651_06d22a",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I ActivityManager_service : $ACTIVITY_MANAGER_SERVICE app record ProcessRecord{$ALPHANUMERICAL $NUM+:huawei.$ALPHANUMERICAL/$ALPHANUMERICAL} thread = $THREAD@$ALPHANUMERICAL pid = $PID procname = $PROCNAME"
+    },
+    {
+      "Template_id": "1010160881_dd98a1",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I HuaweiWifiWatchdogStateMachine : $HUAWEI_WIFI_WATCHDOG_STATE_MACHINE mHighDataFlowRate = $M_HIGH_DATA_FLOW_RATE"
+    },
+    {
+      "Template_id": "101049287_814bb9",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ W $ALPHANUMERICAL: [SocketRead_$TIMESTAMP$NUM+]socket has been closed(android/null : $NUM+)"
+    },
+    {
+      "Template_id": "1010492896_ac1177",
+      "Version": "2",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ W HwVDrive : $HW_VDRIVE $$ , not such method."
+    },
+    {
+      "Template_id": "1010994912_29d258",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I ActivityManager_service : $ACTIVITY_MANAGER_SERVICE , callerApp : $CALLER_APP{$ALPHANUMERICAL $NUM+:system/$NUM+} , flags : $FLAGS"
+    },
+    {
+      "Template_id": "1011020371_975a4d",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I SensorState : $SENSOR_STATE , mHandles : {}"
+    },
+    {
+      "Template_id": "1011365385_0c7004",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I OUC_COTA : [$ALPHANUMERIC_CHAIN_TWO]getNewVersionFromServer status is $NUM+(/HttpCommunicator.java : $NUM+)"
+    },
+    {
+      "Template_id": "1011391344_5ce06a",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D powergenie_jni : $POWERGENIE_JNI mode = $MODE"
+    },
+    {
+      "Template_id": "1011610482_4f8515",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ E WifiStateMachine : $WIFI_STATE_MACHINE $NUM+ ticksBad : $TICKS_BAD ticksNotHigh : $TICKS_NOT_HIGH"
+    },
+    {
+      "Template_id": "1011815311_65374f",
+      "Version": "2",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D WifiScanGenie_Controller : $WIFI_SCAN_GENIE_CONTROLLER has $$"
+    },
+    {
+      "Template_id": "1012010859_59a979",
+      "Version": "2",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D $ALPHANUMERICAL: $$ vv id : $ID , slot type : $TYPE"
+    },
+    {
+      "Template_id": "1012211641_a32a69",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D AutomaticBrightnessController : $AUTOMATIC_BRIGHTNESS_CONTROLLER= false , sensor is not ready"
+    },
+    {
+      "Template_id": "1012658577_10edbb",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D audio_hw_primary : $AUDIO_HW_PRIMARY mode $NUM+"
+    },
+    {
+      "Template_id": "1012668140_db43d7",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I NaviUIButton : [qiyi_LOG_INFO NaviUIButton] drawPoint; pointWidth = $POINT_WIDTH; getPxFromDp($NUM+) = $NUM+"
+    },
+    {
+      "Template_id": "1012831489_bf62d1",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D wpa_supplicant : $WPA_SUPPLICANT TX $ALPHANUMERIC_CHAIN_TWO - hexdump(len = $LEN): $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $ALPHANUMERICAL $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ ab $NUM+ $ALPHANUMERICAL fc $NUM+ $ALPHANUMERICAL $NUM+ $ALPHANUMERICAL $ALPHANUMERICAL $NUM+ $NUM+ $NUM+ $ALPHANUMERICAL ef $NUM+ ..."
+    },
+    {
+      "Template_id": "1013163357_966b35",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I MQoS : $ALPHANUMERIC_CHAIN_THREE:$SKIPLOWLEVEL($NUM+) , $ALPHANUMERIC_CHAIN_TWO;use $ALPHANUMERICAL"
+    },
+    {
+      "Template_id": "1013326195_00be4b",
+      "Version": "2",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ V HwBroadcastQueue : $HW_BROADCAST_QUEUE and enqueue $$ Parallel : ($NUM+) Ordered : ($NUM+)(BroadcastRecord{$ALPHANUMERICAL $ALPHANUMERICAL $$"
+    },
+    {
+      "Template_id": "1013624522_c6d42c",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D qiyippsplay : $QIYIPPSPLAY()$<NUM+> : WhiteList.res_info : >> {\"dl_res\":[$NUM+ , $NUM+ , $NUM+ , $NUM+] , \"play_res\":[$NUM+ , $NUM+ , $NUM+ , $NUM+] , \"pano_res\":[$NUM+ , $NUM+]}"
+    },
+    {
+      "Template_id": "1014417299_77c6c0",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D wpa_supplicant : $WPA_SUPPLICANT IEs - hexdump(len = $LEN): $NUM+ $ALPHANUMERICAL $NUM+ $ALPHANUMERICAL $NUM+ $ALPHANUMERICAL $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $ALPHANUMERICAL $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $ALPHANUMERICAL $NUM+ $ALPHANUMERICAL $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $ALPHANUMERICAL $NUM+ $NUM+ $NUM+ ..."
+    },
+    {
+      "Template_id": "1014787420_abbe6e",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D InCall : VideoCallPresenter - resumeVideo : $RESUME_VIDEO bad state mPrimaryCall = [Call_$NUM+ , ACTIVE , [Capabilities : CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_CANNOT_DOWNGRADE_VIDEO_TO_AUDIO] , children : [] , parent : $PARENT , conferenceable : [] , videoState : $VIDEO_STATE Only , mSessionModificationState : $M_SESSION_MODIFICATION_STATE , VideoSettings : (CameraDir : $NUM+)] mVideoCall = $M_VIDEO_CALL"
+    },
+    {
+      "Template_id": "1015208206_150cb8",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I ECS : msg.recv{$NUM+} XmlMsg.decodeBuf(XmlMsg.java : $NUM+) RECV $NUM+ bytes [$NUM+]_$NUM+_$NUM+_$NUM+_$NUM+_$NUM+_$NUM+_$NUM+_CD_$NUM+_$ALPHANUMERICAL_$NUM+_$ALPHANUMERICAL cmdCode(CC_GetConferenceList.$HEX)msgType(MT_ACK.$NUM+)msgClass(MC_Conference.$NUM+)sender(ST_Mobile.$NUM+)crypted(true)zipped(false)$ALPHANUMERICAL(true)length($NUM+)version($NUM+)sno($ALPHANUMERICAL)"
+    },
+    {
+      "Template_id": "1016176064_5a5c27",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ E hcdn_downloadengine : $HCDN_DOWNLOADENGINE [$NUM+/$NUM+/$NUM+-$TIMESTAMP:$NUM+]:OnRecvSetParam , $NUM+ SetParam : net_mode ,"
+    },
+    {
+      "Template_id": "1016955490_eb5f4b",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I QImsService : $QIMS_SERVICE : type = $TYPE status = $STATUS isValid = true"
+    },
+    {
+      "Template_id": "1017104151_6ef35d",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I TipsController.host : [qiyi_LOG_INFO TipsController.host] getGameTipsData : $GET_GAME_TIPS_DATA"
+    },
+    {
+      "Template_id": "1017116011_b26553",
+      "Version": "2",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D HwConnectivityService : $$ state = $STATE"
+    },
+    {
+      "Template_id": "101723555_1fadfc",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I ActivityManager : $ACTIVITY_MANAGER $NUM+:com.huawei.phoneservice : loguploadservice/$ALPHANUMERICAL (adj $NUM+): iAware($ALPHANUMERIC_CHAIN_TWO)"
+    },
+    {
+      "Template_id": "1017486877_004bec",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D TipsController : $TIPS_CONTROLLER=[]"
+    },
+    {
+      "Template_id": "1017721250_582fbf",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I AudioFlinger : $AUDIO_FLINGER thread = $THREAD; stream = $STREAM; value = $VALUE"
+    },
+    {
+      "Template_id": "1017913316_3c451a",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D MagicLink : $MAGIC_LINK====>IdleState{ when = $WHEN what = $WHAT target = $TARGET$SmHandler }"
+    },
+    {
+      "Template_id": "1017985970_37ae5a",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I NativePlayer : $NATIVE_PLAYER()$<NUM+> : NativePlayer : $NATIVE_PLAYER info = $INFO mMovieInitParams = $M_MOVIE_INIT_PARAMS@$ALPHANUMERICAL , mMovieInitParamsString = $M_MOVIE_INIT_PARAMS_STRING , state = $STATE]"
+    },
+    {
+      "Template_id": "1018160081_e5e268",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I CLog : $TIMESTAMP T : $T INFO : $INFO($NUM+): success! url : $URL//data.video.iqiyi.com/v.$ALPHANUMERICAL"
+    },
+    {
+      "Template_id": "1018274624_558253",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D wpa_supplicant : $WPA_SUPPLICANT Shared frequencies (len = $LEN): completed iteration"
+    },
+    {
+      "Template_id": "1018566425_946fe2",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ E HideAppsPagedView : createAddIcon count = $COUNT"
+    },
+    {
+      "Template_id": "101892071_e6b155",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I tips : [qiyi_LOG_INFO tips] BaseActivity : $BASE_ACTIVITY start"
+    },
+    {
+      "Template_id": "1018933924_359621",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D Telecom : ConnectionServiceWrapper : $CONNECTION_SERVICE_WRAPPER -> Telecom : $TELECOM TC@$NUM+ $NUM+: CSW.sCC@$ALPHANUMERICAL"
+    },
+    {
+      "Template_id": "1018946504_42570e",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I Tile.FlashlightTile : refreshState = $REFRESH_STATE , BooleanState[ , icon = $ICON[resId = $RES_ID] , label = 手电筒 , labelTint = $LABEL_TINT , textChangedDelay = $TEXT_CHANGED_DELAY , contentDescription = 手电筒 , dualLabelContentDescription = $DUAL_LABEL_CONTENT_DESCRIPTION , minimalContentDescription = $MINIMAL_CONTENT_DESCRIPTION , minimalAccessibilityClassName = $MINIMAL_ACCESSIBILITY_CLASS_NAME , expandedAccessibilityClassName = $EXPANDED_ACCESSIBILITY_CLASS_NAME , autoMirrorDrawable = $AUTO_MIRROR_DRAWABLE , disabledByPolicy = $DISABLED_BY_POLICY , enforcedAdmin = $ENFORCED_ADMIN , value = $VALUE]"
+    },
+    {
+      "Template_id": "1018999246_000f65",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ E HwWifiStatStore : $HW_WIFI_STAT_STORE writing data file /data/misc/wifi/wifiStatistics.txt"
+    },
+    {
+      "Template_id": "1019212816_c0896c",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I ECS : msg.recv{$NUM+} XmlMsg.decodeBuf(XmlMsg.java : $NUM+) RECV $NUM+ bytes [$NUM+]_$NUM+_$NUM+_$NUM+_$NUM+_$NUM+_$NUM+_$NUM+_CE_$NUM+_$ALPHANUMERICAL_$NUM+_$ALPHANUMERICAL cmdCode(CC_ExtendRequest.$HEX)msgType(MT_ACK.$NUM+)msgClass(MC_JsonExtend.$NUM+)sender(ST_Mobile.$NUM+)crypted(true)zipped(false)$ALPHANUMERICAL(true)length($NUM+)version($NUM+)sno($ALPHANUMERICAL)"
+    },
+    {
+      "Template_id": "1019371146_efa88c",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D wpa_supplicant : $WPA_SUPPLICANT - hexdump(len = $LEN): $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $ALPHANUMERICAL $NUM+ $NUM+ $NUM+ $NUM+ $ALPHANUMERICAL $NUM+ $NUM+ $ALPHANUMERICAL $ALPHANUMERICAL $NUM+ $NUM+ $NUM+ $NUM+ $ALPHANUMERICAL $NUM+ $NUM+ $NUM+ ..."
+    },
+    {
+      "Template_id": "1019566480_75e691",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D StatusBarManagerService : $STATUS_BAR_MANAGER_SERVICE userId = $USER_ID what = $WHAT pkg = $PKG"
+    },
+    {
+      "Template_id": "1019952847_5d0a91",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D wpa_supplicant : $WPA_SUPPLICANT - hexdump(len = $LEN): $NUM+ $NUM+ $NUM+ $NUM+ $ALPHANUMERICAL $ALPHANUMERICAL $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $ALPHANUMERICAL $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $NUM+ $ALPHANUMERICAL $ALPHANUMERICAL ac $NUM+ $NUM+ ff ff $NUM+ $NUM+ ..."
+    },
+    {
+      "Template_id": "1020104100_d08bb3",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I PhoneDownloadEpisodeActivity : [qiyi_LOG_INFO PhoneDownloadEpisodeActivity] fromType = $FROM_TYPE"
+    },
+    {
+      "Template_id": "1020219551_6ab354",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D HwWifiServiceManagerImpl : $HW_WIFI_SERVICE_MANAGER_IMPL CONNECT_NETWORK $ALPHANUMERICAL:$NUM+"
+    },
+    {
+      "Template_id": "1020282441_83479f",
+      "Version": "1",
+      "Template": "$<NUM+>%$ALPHANUMERIC_CHAIN_THREE: User authentication failed : $FAILED address : $ADDRESS , Uname : $UNAME"
+    },
+    {
+      "Template_id": "1020392547_4b9e02",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I NotificationGroupManager : $NOTIFICATION_GROUP_MANAGER|com.qiyi.video|$NUM+|null|$NUM+ , group = $GROUP|com.qiyi.video|$NUM+|null|$NUM+"
+    },
+    {
+      "Template_id": "1020444117_f891f2",
+      "Version": "2",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I HwCust : Constructor found for class $$ , args = [Ljava.lang.Object;@$ALPHANUMERICAL"
+    },
+    {
+      "Template_id": "1020629411_fa85af",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I PowerManagerService : $POWER_MANAGER_SERVICE goToSleepNoUpdateLocked mForceDoze = $M_FORCE_DOZE"
+    },
+    {
+      "Template_id": "1021047638_3b6b61",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D HuaweiWifiWatchdogStateMachine : $HUAWEI_WIFI_WATCHDOG_STATE_MACHINE mrssi = $MRSSI"
+    },
+    {
+      "Template_id": "102108700_11073e",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D fyt : org.qiyi.android.coreplayer.b.aux.b()$<NUM+> : NativePlayer : $NATIVE_PLAYER>{\"open_puma_log_out\":\"$NUM+\" , \"open_puma_log_to_console\":\"$NUM+\" , \"set_user_select_bigstream_flag\":\"$NUM+\" , \"open_for_oversea_limit\":\"$NUM+\"}"
+    },
+    {
+      "Template_id": "1021825603_48c1a9",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I ECS : $ALPHANUMERIC_CHAIN_THREE$NUM+{$NUM+} XmlMsg.encodeBuf(XmlMsg.java : $NUM+) SEND $NUM+ bytes [$NUM+]_$NUM+_$NUM+_$NUM+_$ALPHANUMERICAL_$NUM+_$NUM+_$NUM+_$NUM+_$ALPHANUMERICAL_$NUM+_$NUM+_$ALPHANUMERICAL_$NUM+_$ALPHANUMERICAL_$ALPHANUMERICAL_$NUM+ cmdCode(CC_SendGroupMsg.$HEX)msgType(MT_ACK.$NUM+)msgClass(MC_InstanceMessage.$NUM+)sender(ST_Mobile.$NUM+)crypted(true)zipped(false)$ALPHANUMERICAL(true)length($NUM+)version($NUM+)sno($ALPHANUMERICAL)"
+    },
+    {
+      "Template_id": "1021999293_16c7a6",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D Telecom : Call : $CALL doing nothing : $NOTHING@$ALPHANUMERICAL"
+    },
+    {
+      "Template_id": "1022254938_2d87fd",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D HwWifiQualifiedNetworkSelector : $HW_WIFI_QUALIFIED_NETWORK_SELECTOR+ Enabled , update scan result , selected type = $TYPE"
+    },
+    {
+      "Template_id": "102301483_54a84e",
+      "Version": "3",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D NetdConnector : $NETD_CONNECTOR $$ {$NUM+ $$ $$ rmnet_$ALPHANUMERICAL $$"
+    },
+    {
+      "Template_id": "1023233105_bdac0b",
+      "Version": "2",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D ActivityThread : $ACTIVITY_THREAD activity client record , r = ActivityRecord{$ALPHANUMERICAL token = $TOKEN@$ALPHANUMERICAL $$ token = android.os.BinderProxy@$ALPHANUMERICAL"
+    },
+    {
+      "Template_id": "1023281780_cd4f96",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I ECS : msg.recv{$NUM+} XmlMsg.encodeBuf(XmlMsg.java : $NUM+) SEND $NUM+ bytes [$NUM+]_$NUM+_$NUM+_$NUM+_$ALPHANUMERICAL_$NUM+_$NUM+_$NUM+_$NUM+_$NUM+_$NUM+_$NUM+_$NUM+_$ALPHANUMERICAL_$NUM+_$ALPHANUMERICAL_$NUM+ cmdCode(CC_ExtendRequest.$HEX)msgType(MT_ARG.$NUM+)msgClass(MC_JsonExtend.$NUM+)sender(ST_Mobile.$NUM+)crypted(true)zipped(false)$ALPHANUMERICAL(true)length($NUM+)version($NUM+)sno($NUM+)"
+    },
+    {
+      "Template_id": "102361881_bef643",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I SDK : $<NUM+$TIMESTAMP> [NOTICE] SDK : $SDK $ALPHANUMERIC_CHAIN_THREE $NUM+:$NUM+:$NUM+:$NUM+ Level[NOTICE] magic[$NUM+ $NUM+]:Tracker : start upload"
+    },
+    {
+      "Template_id": "1023781228_3d8916",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ V SecInputMethodManagerService : $SEC_INPUT_METHOD_MANAGER_SERVICE requesting input be hidden , pid = $PID"
+    },
+    {
+      "Template_id": "1023986857_7df61a",
+      "Version": "2",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D $ALPHANUMERIC_CHAIN_THREE: $QCTIMESERVICES $$ = $NUM+"
+    },
+    {
+      "Template_id": "1024159519_54e9bf",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I PGManagerService : $PGMANAGER_SERVICE , pid : $PID , uid : $UID , proxy : $PROXY"
+    },
+    {
+      "Template_id": "1024194749_cf6207",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I HwSystemManager : $HW_SYSTEM_MANAGER total limit = $LIMIT warn = $WARN used = $USED"
+    },
+    {
+      "Template_id": "1024475988_10ce3d",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D CHECKSD : checkPathCanWrite : /storage/emulated/$NUM+/Android/data/com.qiyi.video/files"
+    },
+    {
+      "Template_id": "1024477780_c6f895",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I CHR_QcChrModemService : $CHR_QC_CHR_MODEM_SERVICE callState : $CALL_STATE"
+    },
+    {
+      "Template_id": "1025110647_3414d7",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D NCCHR_LogDatabaseNc : $NCCHR_LOG_DATABASE_NC call uploadChr for metricId = $METRIC_ID , result = $RESULT"
+    },
+    {
+      "Template_id": "1025322453_3e6f09",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I SDK : $<NUM+$TIMESTAMP> [NOTICE] SDK : $SDK $ALPHANUMERIC_CHAIN_THREE $NUM+:$NUM+:$NUM+:$NUM+ Level[NOTICE] magic[$NUM+ $NUM+]:NetworkReceiver : Active : The NetWork Changed!"
+    },
+    {
+      "Template_id": "1025631915_1d8ae6",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D InCall : VideoPauseController : $VIDEO_PAUSE_CONTROLLER VideoPauseController : $VIDEO_PAUSE_CONTROLLER , Ignoring..."
+    },
+    {
+      "Template_id": "1026264171_e1d73f",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ I ActivityManager_service : $ACTIVITY_MANAGER_SERVICE , callerApp : $CALLER_APP{$ALPHANUMERICAL $NUM+:com.huawei.hilink.framework/$ALPHANUMERICAL} , flags : $FLAGS"
+    },
+    {
+      "Template_id": "1026330493_21fdcb",
+      "Version": "1",
+      "Template": "$<NUM+>$TIMESTAMP $NUM+ $NUM+ D HsmInterfaceImpl : $HSM_INTERFACE_IMPL [ResolveInfo{$ALPHANUMERICAL com.qiyi.video/com.baidu.android.pushservice.PushServiceReceiver m = $M_KEY_VAL euid = $EUID} , ResolveInfo{$ALPHANUMERICAL com.qiyi.video/com.iqiyi.pushservice.PushServiceReceiver m = $M_KEY_VAL euid = $EUID} , ResolveInfo{$ALPHANUMERICAL com.qiyi.video/com.iqiyi.impushservice.receiver.ImPushServiceReceiver m = $M_KEY_VAL euid = $EUID}]"
+    },
+    null,
+    null
+  ]
+}

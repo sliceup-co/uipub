@@ -1,0 +1,14 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "value": "ver_1"
+    },
+    {
+      "value": "ver_2"
+    },
+    {
+      "value": "ver_3"
+    }
+  ]
+}

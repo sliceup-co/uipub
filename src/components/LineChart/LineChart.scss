@@ -1,0 +1,18 @@
+.line-mean {
+  stroke: #bebebe;
+  stroke-dasharray: 20px 10px;
+  font-size: 12px;
+  text-anchor: middle;
+  z-index: 999;
+  pointer-events: none;
+}
+
+.line-mean-text {
+  fill: white;
+  font-size: 12px;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}

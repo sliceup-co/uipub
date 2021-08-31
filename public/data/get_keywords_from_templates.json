@@ -1,0 +1,61 @@
+{
+  "status": "success",
+  "totalResults": 8,
+  "pageNumber": "1",
+  "resultsPerPage": "5",
+  "data": [
+    {
+      "text": "defective",
+      "value": 1.9061547465398496
+    },
+    {
+      "text": "stiflingly",
+      "value": 1.617343421306539
+    },
+    {
+      "text": "refuses",
+      "value": 1.0397207708399179
+    },
+    {
+      "text": "stench",
+      "value": 1.0397207708399179
+    },
+    {
+      "text": "mindless",
+      "value": 1.0397207708399179
+    },
+    {
+      "text": "failed",
+      "value": 0.6931471805599453
+    },
+    {
+      "text": "revert",
+      "value": 0.6931471805599453
+    }
+  ],
+  "wordsRemoved": [
+    "num",
+    "sdk",
+    "broadcast",
+    "wpa",
+    "key",
+    "data",
+    "len",
+    "euid",
+    "processinfocollector",
+    "process",
+    "info",
+    "collector",
+    "find",
+    "proc",
+    "encrypted",
+    "ad",
+    "ae",
+    "level",
+    "magic",
+    "vsock",
+    "changes",
+    "datamigrateutils",
+    "migrate"
+  ]
+}

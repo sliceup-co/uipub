@@ -1,0 +1,72 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTPro-LtCn
+FamilyName:Helvetica Neue LT Pro
+StyleName:47 Light Condensed
+MenuName:HelveticaNeueLT Pro 47 LtCn
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue LT Pro 47 Light Condensed
+WritingScript:Roman
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Active Projects/Dexis Consulting Group/Fact and Slick Sheets/Agriculture and Economic Growth/Designs/2019-10-28/Document fonts/HelveticaNeueLTPro-LtCn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45244
+FileModTime:592920762
+NameArray:0,Mac,18,HelveticaNeueLT Pro 47 LtCn
+NameArray:0,Mac,4,Helvetica Neue LT Pro 47 Light Condensed
+NameArray:0,Win,1,HelveticaNeueLT Pro 47 LtCn
+NameArray:0,Win,16,Helvetica Neue LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTPro-MdCn
+FamilyName:Helvetica Neue LT Pro
+StyleName:67 Medium Condensed
+MenuName:HelveticaNeueLT Pro 67 MdCn
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue LT Pro 67 Medium Condensed
+WritingScript:Roman
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Active Projects/Dexis Consulting Group/Fact and Slick Sheets/Agriculture and Economic Growth/Designs/2019-10-28/Document fonts/HelveticaNeueLTPro-MdCn.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:47656
+FileModTime:592920762
+NameArray:0,Mac,18,HelveticaNeueLT Pro 67 MdCn
+NameArray:0,Mac,4,Helvetica Neue LT Pro 67 Medium Condensed
+NameArray:0,Win,1,HelveticaNeueLT Pro 67 MdCn
+NameArray:0,Win,16,Helvetica Neue LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Active Projects/Dexis Consulting Group/Fact and Slick Sheets/Agriculture and Economic Growth/Designs/2019-10-28/Document fonts/AdobeFnt20.lst
+FileLength:2290
+FileModTime:593970355
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Volumes/GoogleDrive/My Drive/Active Projects/Dexis Consulting Group/Fact and Slick Sheets/Agriculture and Economic Growth/Designs/2019-10-28/Document fonts/Icon
+FileModTime:-978307200
+%EndFont
+

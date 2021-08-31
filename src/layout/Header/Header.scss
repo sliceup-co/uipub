@@ -1,0 +1,40 @@
+.MuiButton-label {
+  font-family: 'Sacramento', sans-serif;
+  text-transform: capitalize;
+  font-size: 12px !important;
+}
+
+.logo-btn {
+  position: absolute;
+  top: 3px;
+  display: inline-block;
+  font-size: 40px;
+}
+
+.NavLinkItem {
+  color: black;
+  max-width: 360px;
+  text-decoration: none;
+}
+
+.NavLinkItem-selected nav {
+  background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+}
+
+.logo-wrapper {
+  padding-top: 10px;
+}
+
+.app-logo-top {
+  width: 70px;
+  pointer-events: none;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}

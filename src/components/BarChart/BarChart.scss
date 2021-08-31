@@ -1,0 +1,16 @@
+.bar:hover {
+  fill: hsl(270, 80%, 50%);
+}
+
+.bar-mean {
+  stroke: white;
+  stroke-dasharray: 20px 10px;
+  font-size: 12px;
+  text-anchor: middle;
+}
+
+.bar-mean-text {
+  fill: white;
+  font-size: 12px;
+  text-anchor: middle;
+}

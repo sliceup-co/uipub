@@ -1,0 +1,8 @@
+{
+  "status": "success",
+  "data": {
+    "name": "name",
+    "category": "category",
+    "fields": "fields"
+  }
+}

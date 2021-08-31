@@ -1,0 +1,84 @@
+.App {
+  text-align: center;
+  padding-top: 20px;
+  background-color: rgb(9, 12, 16) !important;
+}
+
+.home-content {
+  font-size: 15px;
+  line-height: 19px;
+  font-weight: 300;
+  padding: 75px 0 0 0;
+  text-align: center;
+  max-width: 900px;
+  margin: auto;
+  min-height: 400px;
+}
+
+.lazyLoaderDiv {
+  top: 200px;
+  padding-bottom: 500px;
+  height: 500px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.yellowText {
+  fill: rgba(253, 165, 41, 1);
+}
+
+a {
+  font-size: inherit;
+  text-decoration: underline;
+}
+
+.spinner {
+  width: 250px;
+  pointer-events: none;
+}
+
+.resize {
+  border: 1px solid black;
+  overflow:auto;
+}
+.resize.vertical {
+  resize: vertical;
+}
+.wrap {
+  padding-left: 10px;
+  max-width: 99%;
+  min-width: 99%;
+  padding-bottom: 5px;
+}
+
+.size200 {
+  min-height: 100px;
+  max-height: 200px;
+}
+
+.size240 {
+  min-height: 100px;
+  max-height: 240px;
+}
+
+.size250 {
+  min-height: 250px;
+  max-height: 515px;
+}
+
+.size370 {
+  min-height: 200px;
+  max-height: 370px;
+}
+
+.size430 {
+  min-height: 200px;
+  max-height: 430px;
+}
+
+.size750 {
+  min-height: 200px;
+  max-height: 750px;
+}
